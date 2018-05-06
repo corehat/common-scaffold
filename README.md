@@ -1,0 +1,2 @@
+# scaffold
+Java code generator
